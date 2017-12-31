@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1499330993 source:c:\users\harun yýldýz\desktop\deneme1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1499330993 source:c:\users\harun yýldýz\desktop\staj\2\deneme1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1499417521 source:c:\users\harun yýldýz\desktop\staj\2\atm_simulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
